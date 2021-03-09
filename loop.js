@@ -5,3 +5,4 @@ var g = 14,
 
     var c = g+h;
     console.log(c);
+    console.log(c+C);
